@@ -1,0 +1,25 @@
+/*
+[class*="col-"] {
+			background-color: #eee;
+			border-right: 2px solid #fff;
+			text-align: center;
+			padding-top: 15px;
+			padding-bottom: 15px;
+			font-size: 2rem;
+		}
+h1{
+	text-align: center;
+}
+*/
+
+[class*="col-"] {
+	background-color: #eee;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	font-size: 2rem;
+}
+p{
+	font-size: 20px;
+}
